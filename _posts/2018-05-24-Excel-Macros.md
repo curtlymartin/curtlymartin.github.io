@@ -222,17 +222,10 @@ Sub Clear_Range_End()
     ActiveWorkbook.Save
 End Sub
 ```
+#### These below need to be placed in [personal.xslb] 
+#### VBA [This Workbook] and change the letters to whatever may suit you best
 
-### This one needs to be placed in [personal.xslb] VBA [This Workbook] and change the letters to whatever may suit you best
-
-
-
-
-![useful image]({{ site.url }}/assets/image.png)
-
-![alt text](https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master/assets/VBA.png "Logo Title Text 1")
-
-
+![Excel VBA Module](https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master/assets/VBA.png "Logo Title Text 1")
 
 ```VBnet
 Private Sub workbook_open()
