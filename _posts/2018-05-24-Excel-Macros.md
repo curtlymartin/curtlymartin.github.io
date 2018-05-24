@@ -225,7 +225,12 @@ End Sub
 
 ### This one needs to be placed in [personal.xslb] VBA [This Workbook] and change the letters to whatever may suit you best
 
-![useful image]({{https://github.com/curtlymartin/curtlymartin.github.io}}/assets/vba.png))
+
+![VBA]({{<https://github.com/curtlymartin/curtlymartin.github.io}}/blob/master/assets/VBA.png)>
+
+(<https://github.com/curtlymartin/curtlymartin.github.io/blob/master/assets/VBA.png)>
+
+
 
 ```VBnet
 Private Sub workbook_open()
