@@ -1,3 +1,8 @@
+---
+layout: page
+title: My Useful Excel Macros
+---
+
 ```VBnet
 Sub Format_PTFields()
 'Macro goal: allow users to quickly choose the format to apply to pivot table fields
