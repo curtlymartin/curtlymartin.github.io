@@ -1,6 +1,6 @@
 # Useful software
 
-## Work Laptop Specific ##
+## Work Laptop Specific
 
 screen cast o matic - <https://screencast-o-matic.com/account>
 toggl
@@ -12,7 +12,7 @@ rainmeter
 eagle wallpaper - <https://imgur.com/kCs1Z3C> or <https://1drv.ms/i/s!AlEWyiAvn53tgYEPZAnjdtK1ouoAxA>
 Word add in mail merge to individual letter - <http://www.gmayor.com/individual_merge_letters.htm> - PayPal donation $10 USD 12/1/18
 
-## General ##
+## General
 
 Greenshot <http://getgreenshot.org/> Filename pattern required to generate individual folders [${YYYY}${MM}${DD}\${hh}_${mm}_${ss}_${title}_${NUM}]
 qdir <http://www.softwareok.com/?seite=Freeware/Q-Dir>
@@ -53,19 +53,19 @@ FlexiPDF Basic 2017 for Windows: <http://www.softmaker.net/down/flexipdfbasic201
 Rufus - create bootable disk <https://rufus.akeo.ie/>
 S3 Browser <http://s3browser.com/>
 
-## Mobile ##
+## Mobile
 
 Tasker
 Pushbullet <https://www.pushbullet.com/>
 Blackberry apps for Android
 
-## HTPC Specific ##
+## HTPC Specific
 
 shark 007 codecs
 windows codecs - <http://www.windows7codecs.com/>
 sickbeard
 sabnzb
 
-## Other ##
+## Other
 
 Fat32 formatter for Windows 10
