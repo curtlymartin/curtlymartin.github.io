@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Useful Excel Macros
+title: Excel Macros
 ---
 
 ```VBnet
