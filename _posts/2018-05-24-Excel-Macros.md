@@ -221,11 +221,13 @@ Sub Clear_Range_End()
     ActiveSheet.UsedRange
     ActiveWorkbook.Save
 End Sub
+
 ```
+
 #### These below need to be placed in [personal.xslb] 
 #### VBA [This Workbook] and change the letters to whatever may suit you best
 
-![Excel VBA Module](https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master/assets/VBA.png "Logo Title Text 1")
+![Excel VBA Module](https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master/assets/VBA.png "Excel Screenshot")
 
 ```VBnet
 Private Sub workbook_open()
