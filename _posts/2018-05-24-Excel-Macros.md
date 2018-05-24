@@ -225,16 +225,7 @@ End Sub
 
 ### This one needs to be placed in [personal.xslb] VBA [This Workbook] and change the letters to whatever may suit you best
 
-![VBA]({{https://github.com/curtlymartin/curtlymartin.github.io}}/blob/master/assets/vba.png))
-
-'![useful image]({{ site.url }}/assets/image.png)
-
-
-
-
-
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![useful image]({{https://github.com/curtlymartin/curtlymartin.github.io}}/assets/vba.png))
 
 ```VBnet
 Private Sub workbook_open()
