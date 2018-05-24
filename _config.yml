@@ -1,10 +1,8 @@
-title: My Useful Things
+title: Curt Martin
 author: curtlymartin
 email: curtly.martin@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Just a place to keep reusable bits of code
 
 # social links
 #twitter_username: jekyllrb
@@ -14,7 +12,7 @@ rss: rss
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-# linkedin_username: jekyll
+linkedin_username: linkedin.com/in/intelligencepro
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
