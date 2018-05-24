@@ -225,7 +225,7 @@ End Sub
 
 ### This one needs to be placed in [personal.xslb] VBA [This Workbook] and change the letters to whatever may suit you best
 
-![VBA](https://github.com/curtlymartin/curtlymartin.github.io/blob/master/assets/11_43_15_Microsoft%20Visual%20Basic%20for%20Applications%20-%20PERSONAL.XLSB%20-%20%5BThisWorkbook%20(Code)%5D_000119.png "Where to paste in personal.xslb VBA")
+![VBA]( curtlymartin.github.io/assets/11_43_15_Microsoft Visual Basic for Applications - PERSONAL.XLSB - [ThisWorkbook (Code)]_000119.png  "Where to paste in personal.xslb VBA")
 
 ```VBnet
 Private Sub workbook_open()
