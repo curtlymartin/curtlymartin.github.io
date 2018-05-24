@@ -226,10 +226,11 @@ End Sub
 ### This one needs to be placed in [personal.xslb] VBA [This Workbook] and change the letters to whatever may suit you best
 
 
-![VBA]({{https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master}}/assets/VBA.png)
 
 
 ![useful image]({{ site.url }}/assets/image.png)
+
+![alt text](https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master/assets/VBA.png "Logo Title Text 1")
 
 
 
