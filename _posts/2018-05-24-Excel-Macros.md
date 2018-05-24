@@ -225,7 +225,7 @@ End Sub
 
 ### This one needs to be placed in [personal.xslb] VBA [This Workbook] and change the letters to whatever may suit you best
 
- curtlymartin.github.io/assets/11_43_15_Microsoft Visual Basic for Applications - PERSONAL.XLSB - [ThisWorkbook (Code)]_000119.png
+[curtlymartin.github.io/assets/11_43_15_Microsoft Visual Basic for Applications - PERSONAL.XLSB - [ThisWorkbook (Code)]_000119.png]
 
 ```VBnet
 Private Sub workbook_open()
@@ -238,4 +238,3 @@ Private Sub workbook_open()
     Application.OnKey "^l", "Format_PTFields"
 End Sub
 ```
-
