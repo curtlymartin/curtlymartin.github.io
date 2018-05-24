@@ -239,5 +239,3 @@ Private Sub workbook_open()
 End Sub
 ```
 
-
-.
