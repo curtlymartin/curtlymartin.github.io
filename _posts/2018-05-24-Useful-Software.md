@@ -1,3 +1,3 @@
 # Useful Software
 
-![Link to Gist](http://curtlymartin.roughdraft.io/d86b7ef8a059fd8b0940387ee917fc8e- "Link to Gist")
+![Link to Gist](http://curtlymartin.roughdraft.io/d86b7ef8a059fd8b0940387ee917fc8e-)
