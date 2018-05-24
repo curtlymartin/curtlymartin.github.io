@@ -6,7 +6,7 @@ title: Excel Macros
 ```VBnet
 Sub Format_PTFields()
 'Macro goal: allow users to quickly choose the format to apply to pivot table fields
-'ctrl+l
+'Keyboard shortcut: ctrl+l
 'Code modified from Dick Kusleika's code at:
 'http://www.dailydoseofexcel.com/archives/2010/06/18/formatting-pivot-tables/
 
