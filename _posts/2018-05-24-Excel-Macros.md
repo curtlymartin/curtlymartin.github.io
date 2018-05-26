@@ -2,6 +2,7 @@
 layout: post
 title: Excel Macros
 ---
+## Copy (down to 'Keyboard Shortcuts') and paste into a new VBA module
 
 ```VBnet
 Sub Format_PTFields()
