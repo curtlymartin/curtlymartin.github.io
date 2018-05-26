@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just a little site for my own reference, which I occasionally need to share.
+For my own reference, which I occasionally need to share.
