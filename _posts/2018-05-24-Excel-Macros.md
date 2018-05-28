@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Excel Macros
 ---
 ## Copy (down to 'Keyboard Shortcuts') and paste into a new VBA module
