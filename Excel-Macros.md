@@ -4,7 +4,7 @@ title: Excel Macros
 ---
 ## Copy (down to 'Keyboard Shortcuts') and paste into a new VBA module
 
-```VBnet
+```VB
 Sub Format_PTFields()
 'Macro goal: allow users to quickly choose the format to apply to pivot table fields
 'Keyboard shortcut: ctrl+l
@@ -61,7 +61,7 @@ HandleErr:
 End Sub
 ```
 
-```VBnet
+```VB
 
 Sub SelectAdjacentCol()
 'Selects all empty rows of adjacent column. Handy when there's no endpoint to a column in order to do an easy autofill
@@ -86,7 +86,7 @@ End Sub
 
 ```
 
-```VBnet
+```VB
 
 Sub Fill_Blank_Cells()
 'Fills all blank cells in the whole range. Can't exactly remember why this is useful now. Shrug
@@ -97,7 +97,7 @@ End Sub
 
 ```
 
-```VBnet
+```VB
 
 Sub format()
 ' format Macro - sets font and size to be same for whole sheet
@@ -135,7 +135,7 @@ End Sub
 
 ```
 
-```VBnet
+```VB
 
 Sub Adjust_cols()
 ' Adjust_cols Macro - sets column to size of max text
@@ -153,7 +153,7 @@ End Sub
 
 ```
 
-```VBnet
+```VB
 Sub Header()
 ' Header Macro - sets header row to slighter larger font. White font on black background.
 ' Keyboard Shortcut: Ctrl+h
@@ -202,7 +202,7 @@ End Sub
 
 ```
 
-```VBnet
+```VB
 
 Sub delete_sheet()
 ' deletes current sheet
@@ -213,7 +213,7 @@ End Sub
 
 ```
 
-```VBnet
+```VB
 
 Sub Clear_Range_End()
 ' Clear_Range_End Macro - finds end of range and resets it to current last row of actual data.
@@ -231,7 +231,7 @@ These below need to be placed in [personal.xslb] - VBA [This Workbook] and chang
 
 ![Excel VBA Module](https://raw.githubusercontent.com/curtlymartin/curtlymartin.github.io/master/assets/VBA.png "Excel Screenshot")
 
-```VBnet
+```VB
 Private Sub workbook_open()
     Application.OnKey "^m", "SelectAdjacentCol"
     Application.OnKey "^k", "Clear_Range_End"
