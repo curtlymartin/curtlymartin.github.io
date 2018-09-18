@@ -1,5 +1,3 @@
-# SQL Server Snippets
-
 ## PostgreSQL difference between two dates
 ```sql
 
