@@ -4,6 +4,8 @@ title: Excel Macros
 ---
 ## Copy (down to 'Keyboard Shortcuts') and paste into a new VBA module
 
+blah blah
+
 ```VB
 Sub Format_PTFields()
 'Macro goal: allow users to quickly choose the format to apply to pivot table fields
