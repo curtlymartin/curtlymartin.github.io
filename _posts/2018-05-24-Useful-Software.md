@@ -7,10 +7,8 @@ title: Useful Software
 
 ## Work Laptop Specific ##
 
-```html
-
-[screen cast o matic](https://screencast-o-matic.com/account)
-toggl
+* [screen cast o matic](https://screencast-o-matic.com/account)
+* toggl
 [ku tools for Excel](https://www.extendoffice.com/download/kutools-for-excel.html)
 [fuzzy logic add in for Excel](https://elbo.in/iET)
 insync (for second google acct)
@@ -18,8 +16,6 @@ Royal TS
 rainmeter
 [eagle wallpaper](https://imgur.com/kCs1Z3C) or [eagle wallpaper 2](https://1drv.ms/i/s!AlEWyiAvn53tgYEPZAnjdtK1ouoAxA)
 [Word add in mail merge to individual letter](http://www.gmayor.com/individual_merge_letters.htm) - PayPal donation $10 USD 12/1/18
-
-```
 
 ## General ##
 
