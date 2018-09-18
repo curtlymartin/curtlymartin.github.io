@@ -1,3 +1,8 @@
+<script src="https://gist.github.com/curtlymartin/f3c7b229ea4b667583dd9d91b9b47fa6.js"></script>
+
+
+
+
 ## PostgreSQL difference between two dates
 ```sql
 
