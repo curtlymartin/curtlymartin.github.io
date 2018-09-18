@@ -1,3 +1,8 @@
+---
+layout: page
+title: Useful Software
+---
+
 # List of Useful Software That I Use #
 
 ## Work Laptop Specific ##
