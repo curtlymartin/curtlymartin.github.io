@@ -56,7 +56,7 @@ title: Useful Software
 
 * Tasker
 * Pushbullet <https://www.pushbullet.com/>
-* Blackberry apps for Android
+* Blackberry apps (Hub, Calendar and Contacts) for Android
 
 ## HTPC Specific ##
 
