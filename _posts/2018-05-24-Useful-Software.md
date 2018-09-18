@@ -9,7 +9,7 @@ title: Useful Software
 
 * [screen cast o matic](https://screencast-o-matic.com/account)
 * toggl
-[ku tools for Excel](https://www.extendoffice.com/download/kutools-for-excel.html)
+- [ku tools for Excel](https://www.extendoffice.com/download/kutools-for-excel.html)
 [fuzzy logic add in for Excel](https://elbo.in/iET)
 insync (for second google acct)
 Royal TS
