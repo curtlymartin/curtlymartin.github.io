@@ -46,9 +46,3 @@ plugins:
 
  # Google Analytics
 google_analytics: UA-141192915-1
-
- analytics:
-  		provider: "google-universal"
-  	google:
- 	tracking_id: "UA-141192915-1"
-
