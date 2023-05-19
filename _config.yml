@@ -2,7 +2,7 @@ title: Curt Martin
 # author: curtlymartin
 #[website](https://www.curtmartin.org)
 #<a href="http://testing.test123.org/xx3/landing.gsp">Testing Landing Page</a> theme: jekyll-theme-cayman github: is_project_page: false
-<a href="https://www.curtmartin.org"> Website </a> theme: jekyll-theme-minima github: is_project_page: false
+#<a href="https://www.curtmartin.org"> Website </a> theme: jekyll-theme-minima github: is_project_page: false
 email: curt@curtmartin.org
 #description: > # this means to ignore newlines until "twitter_username:"
   
